@@ -180,7 +180,7 @@ p.note { display: none; }
 <h2><span class="yellow">屋根上は鳩さん達の世界</span></h2>
 <a href="20260228_044.JPG" target="_blank"><img src="20260228_044.JPG" alt="サンプル画像" class="responsive-media"></a>
 
-<h2><span class="yellow">この日は100歳のおばあちゃんのお葬式最終日、写真集HPに画像クリックで飛びます↓</span></h2>
+<h2><span class="yellow">この日は100歳のおばあちゃんのお葬式最終日、画像クリックで写真集HPに飛びます↓</span></h2>
 <a href="https://torokoid.github.io/20260227__maechan/" target="_blank"><img src="https://torokoid.github.io/20260227__maechan/20260228_007.JPG" alt="サンプル画像" class="responsive-media"></a>
 
 <h2><span class="yellow">夕暮れ定点観測地点での日暮が久しぶりに撮れてます</span></h2>
